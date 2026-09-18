@@ -18,7 +18,7 @@
   </a>
   &nbsp;
   <a href="mailto:harishraj06v@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/Harishraj006" target="_blank">
@@ -171,23 +171,23 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Canva-0a0a0a?style=for-the-badge&logo=canva&logoColor=EF4444" alt="Canva" />
+  <img src="https://img.shields.io/badge/Canva-0a0a0a?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=0a0a0a" alt="Canva" />
   &nbsp;
-  <img src="https://img.shields.io/badge/IndexedDB-0a0a0a?style=for-the-badge&logo=sqlite&logoColor=EF4444" alt="IndexedDB" />
+  <img src="https://img.shields.io/badge/IndexedDB-0a0a0a?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=0a0a0a" alt="IndexedDB" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Cybersecurity-0a0a0a?style=for-the-badge&logo=kalilinux&logoColor=EF4444" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Cybersecurity-0a0a0a?style=for-the-badge&logo=kali-linux&logoColor=557C94&labelColor=0a0a0a" alt="Cybersecurity" />
 </p>
 
 <h2 align="center"> GitHub Analytics &amp; Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harishraj006&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Harishraj006&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harishraj006&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Harishraj006&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harishraj006&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Harishraj006&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -197,7 +197,7 @@
 <h2 align="center"> Contribution Journey</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harishraj006/Harishraj006/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <img src="assets/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid Snake Animation" />
 </p>
 
 <h2 align="center"> Let's Connect &amp; Collaborate</h2>
@@ -221,7 +221,7 @@
       <a href="mailto:harishraj06v@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
         <br /><br />
-        <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+        <img src="https://img.shields.io/badge/Email-Contact%20Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
       </a>
       <br />
       <sub><b>Direct Collaboration</b></sub>
