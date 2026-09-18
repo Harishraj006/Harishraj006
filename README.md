@@ -37,10 +37,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" style="border-radius: 10px;" alt="Developer coding animation" />
-</p>
-
-<p align="center">
   Hey! I'm <b>Harishraj V</b>, a passionate <b>Computer Science Engineering student &amp; developer</b> at <b>Kongu Engineering College</b> (Batch 2024–2028), based in Erode, India.<br />
   I specialize in architecting scalable <b>Full-Stack web applications</b>, building intelligent <b>AI/ML solutions</b>, crafting cross-platform <b>Flutter mobile apps</b>, and exploring <b>Cybersecurity</b> to solve practical real-world problems.
 </p>
