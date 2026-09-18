@@ -10,40 +10,35 @@
       <stop offset="50%" stop-color="#F87171" />
       <stop offset="100%" stop-color="#DC2626" />
     </linearGradient>
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#ffffff" stroke-width="0.5" stroke-opacity="0.04"/>
-    </pattern>
   </defs>
 
+  <!-- Background Card -->
   <rect width="800" height="200" rx="16" fill="url(#bgGrad)" stroke="#EF4444" stroke-width="1.5" stroke-opacity="0.4"/>
-  <rect width="800" height="200" rx="16" fill="url(#grid)" />
 
-  <circle cx="700" cy="40" r="80" fill="#EF4444" fill-opacity="0.08" filter="url(#glow)"/>
-  <circle cx="100" cy="160" r="70" fill="#DC2626" fill-opacity="0.06" filter="url(#glow)"/>
+  <!-- Decorative circles -->
+  <circle cx="700" cy="40" r="70" fill="#EF4444" fill-opacity="0.08"/>
+  <circle cx="100" cy="160" r="60" fill="#DC2626" fill-opacity="0.06"/>
+  <circle cx="740" cy="150" r="30" fill="#EF4444" fill-opacity="0.05"/>
 
   <!-- Top badge -->
-  <g transform="translate(40, 32)">
-    <rect width="170" height="26" rx="13" fill="#EF4444" fill-opacity="0.12" stroke="#EF4444" stroke-width="1" stroke-opacity="0.4"/>
+  <g transform="translate(40, 30)">
+    <rect width="180" height="26" rx="13" fill="#EF4444" fill-opacity="0.15" stroke="#EF4444" stroke-width="1" stroke-opacity="0.4"/>
     <circle cx="14" cy="13" r="4" fill="#EF4444"/>
-    <text x="26" y="17" fill="#F87171" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" letter-spacing="1">PORTFOLIO &amp; LAB</text>
+    <text x="28" y="17" fill="#F87171" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" letter-spacing="1">PORTFOLIO &amp; LAB</text>
   </g>
 
   <!-- Name -->
-  <text x="40" y="100" fill="#FFFFFF" font-family="'Segoe UI', Roboto, -apple-system, sans-serif" font-size="34" font-weight="800" letter-spacing="0.5">
+  <text x="40" y="100" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="800" letter-spacing="0.5">
     HARISHRAJ <tspan fill="url(#redAccent)">V</tspan>
   </text>
 
   <!-- Subtitle -->
-  <text x="40" y="132" fill="#E5E7EB" font-family="'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="500" letter-spacing="0.3">
-    Computer Science Engineer &bull; AI/ML &bull; Full-Stack Web &bull; Flutter &bull; Cybersecurity
+  <text x="40" y="132" fill="#E5E7EB" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="500">
+    Computer Science Engineer &#8226; AI/ML &#8226; Full-Stack Web &#8226; Flutter &#8226; Cybersecurity
   </text>
 
   <!-- Tertiary Info -->
-  <text x="40" y="162" fill="#9CA3AF" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400">
-    📍 Kongu Engineering College &bull; Erode, India &bull; Turning Ideas into Scalable Products 🚀
+  <text x="40" y="162" fill="#9CA3AF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400">
+    Kongu Engineering College &#8226; Erode, India &#8226; Turning Ideas into Scalable Products
   </text>
 </svg>
