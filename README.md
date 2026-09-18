@@ -195,7 +195,3 @@
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode" />
   </a>
 </p>
-
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Footer" />
-</p>
